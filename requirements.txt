@@ -1,0 +1,5 @@
+asyncio==3.4.3
+discord.py==1.5.1
+numpy==1.19.2
+python-dateutil==2.8.1
+Pillow==8.0.1
